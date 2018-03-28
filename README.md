@@ -1,2 +1,3 @@
 # hellow-world
 First repository
+I am Jacob and I want to learn how to code stuff...
